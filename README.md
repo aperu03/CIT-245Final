@@ -1,4 +1,4 @@
-# CIT-245Final
+# CIT-245 Final
 #####  COVID 19 Patient Questionnaire
 
 COVID 19 has definitely made an impact on the world this year. For many reasons, this pandemic has been especially hard for the health industry. 
